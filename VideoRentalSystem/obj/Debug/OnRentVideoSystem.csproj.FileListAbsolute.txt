@@ -1,0 +1,12 @@
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\bin\Debug\OnRentVideoSystem.exe.config
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\bin\Debug\OnRentVideoSystem.exe
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\bin\Debug\OnRentVideoSystem.pdb
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.csprojAssemblyReference.cache
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.Booking.resources
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.Customer.resources
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.Properties.Resources.resources
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.Video.resources
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.csproj.GenerateResource.cache
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.exe
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.pdb
+C:\Users\Yogesh\source\repos\onrent_VideoSystem\onrent_VideoSystem\obj\Debug\OnRentVideoSystem.Form1.resources
